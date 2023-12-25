@@ -36,5 +36,42 @@
       "date":"2023-12-06 12:00:00",
       "id": 7
     }
+  ],
+  "ka":[
+    {
+      "type":"pay",
+      "money": -99,
+      "date": "2022-10-24 12:36:42",
+      "useFor":"food",
+      "id":1
+    },
+    {
+      "type":"pay",
+      "money": 123,
+      "date": "2022-10-25 13:36:42",
+      "useFor":"income",
+      "id":2
+    },
+    {
+      "type":"pay",
+      "money": 234,
+      "date": "2022-10-26 15:36:42",
+      "useFor":"food",
+      "id":3
+    },
+    {
+      "type":"pay",
+      "money": 345,
+      "date": "2022-10-27 16:36:42",
+      "useFor":"income",
+      "id":4
+    },
+    {
+      "type":"pay",
+      "money": 222,
+      "date": "2022-10-28 17:36:42",
+      "useFor":"food",
+      "id":5
+    }
   ]
 }

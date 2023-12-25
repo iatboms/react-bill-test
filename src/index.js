@@ -6,8 +6,15 @@ import { RouterProvider } from 'react-router-dom';
 import router from './router';
 // 导入定制主题
 import '@/theme.css'
+// redux
+import { Provider } from 'react-redux';
+import store from './store';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <RouterProvider router={router}> </RouterProvider>
+   <Provider store = {store}>
+     <RouterProvider router={router}> </RouterProvider>
+   </Provider>
 )
