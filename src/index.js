@@ -4,7 +4,8 @@ import './index.css';
 import App from "./App"
 import { RouterProvider } from 'react-router-dom';
 import router from './router';
-
+// 导入定制主题
+import '@/theme.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
