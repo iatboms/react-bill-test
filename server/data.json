@@ -41,37 +41,86 @@
     {
       "type":"pay",
       "money": -99,
-      "date": "2022-10-24 12:36:42",
+      "date": "2023-11-24 12:36:42",
       "useFor":"food",
       "id":1
     },
     {
       "type":"pay",
-      "money": 123,
-      "date": "2022-10-25 13:36:42",
-      "useFor":"income",
+      "money": -123,
+      "date": "2023-12-25 13:36:42",
+      "useFor":"drinks",
       "id":2
     },
     {
       "type":"pay",
-      "money": 234,
-      "date": "2022-10-26 15:36:42",
+      "money": -234,
+      "date": "2023-05-26 15:36:42",
       "useFor":"food",
       "id":3
     },
     {
       "type":"pay",
-      "money": 345,
-      "date": "2022-10-27 16:36:42",
-      "useFor":"income",
+      "money": -345,
+      "date": "2023-10-27 16:36:42",
+      "useFor":"drinks",
       "id":4
     },
     {
       "type":"pay",
-      "money": 222,
-      "date": "2022-10-28 17:36:42",
+      "money": -222,
+      "date": "2023-10-28 17:36:42",
       "useFor":"food",
       "id":5
+    },
+    {
+      "type":"income",
+      "money": 123,
+      "date": "2023-11-24 12:36:42",
+      "useFor":"food",
+      "id":6
+    },
+    {
+      "type":"income",
+      "money": 4324,
+      "date": "2023-12-25 13:36:42",
+      "useFor":"drinks",
+      "id":7
+    },
+    {
+      "type":"income",
+      "money": 12312,
+      "date": "2023-05-26 15:36:42",
+      "useFor":"food",
+      "id":8
+    },
+    {
+      "type":"income",
+      "money": 12312,
+      "date": "2023-10-27 16:36:42",
+      "useFor":"drinks",
+      "id":9
+    },
+    {
+      "type":"income",
+      "money": 1234,
+      "date": "2023-10-28 17:36:42",
+      "useFor":"food",
+      "id":10
+    },
+    {
+      "type":"income",
+      "money": 21231,
+      "date": "2023-12-28 17:36:42",
+      "useFor":"food",
+      "id":11
+    },
+    {
+      "type":"pay",
+      "money": -5231,
+      "date": "2023-12-28 17:36:42",
+      "useFor":"food",
+      "id":12
     }
   ]
 }
