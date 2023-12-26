@@ -3,124 +3,145 @@
     {
       "username": "汐汐",
       "comment": "ainix22222222222",
-      "date":"2023-12-01 12:00:00",
+      "date": "2023-12-01 12:00:00",
       "id": 2
     },
     {
       "username": "九安",
       "comment": "der",
-      "date":"2023-12-02 12:00:00",
+      "date": "2023-12-02 12:00:00",
       "id": 3
     },
     {
       "username": "赵长河",
       "comment": "来都来了",
-      "date":"2023-12-03 12:00:00",
+      "date": "2023-12-03 12:00:00",
       "id": 4
     },
     {
       "username": "钟情",
       "comment": "abaaba",
-      "date":"2023-12-04 12:00:00",
+      "date": "2023-12-04 12:00:00",
       "id": 5
     },
     {
       "username": "唐晚妆",
       "comment": "这招好望唐啊",
-      "date":"2023-12-05 12:00:00",
+      "date": "2023-12-05 12:00:00",
       "id": 6
     },
     {
       "username": "夏梦浅",
       "comment": "他是我的病人",
-      "date":"2023-12-06 12:00:00",
+      "date": "2023-12-06 12:00:00",
       "id": 7
     }
   ],
-  "ka":[
+  "ka": [
     {
-      "type":"pay",
+      "type": "pay",
       "money": -99,
       "date": "2023-11-24 12:36:42",
-      "useFor":"food",
-      "id":1
+      "useFor": "food",
+      "id": 1
     },
     {
-      "type":"pay",
+      "type": "pay",
       "money": -123,
       "date": "2023-12-25 13:36:42",
-      "useFor":"drinks",
-      "id":2
+      "useFor": "drinks",
+      "id": 2
     },
     {
-      "type":"pay",
+      "type": "pay",
       "money": -234,
       "date": "2023-05-26 15:36:42",
-      "useFor":"food",
-      "id":3
+      "useFor": "food",
+      "id": 3
     },
     {
-      "type":"pay",
+      "type": "pay",
       "money": -345,
       "date": "2023-10-27 16:36:42",
-      "useFor":"drinks",
-      "id":4
+      "useFor": "drinks",
+      "id": 4
     },
     {
-      "type":"pay",
+      "type": "pay",
       "money": -222,
       "date": "2023-10-28 17:36:42",
-      "useFor":"food",
-      "id":5
+      "useFor": "food",
+      "id": 5
     },
     {
-      "type":"income",
+      "type": "income",
       "money": 123,
       "date": "2023-11-24 12:36:42",
-      "useFor":"food",
-      "id":6
+      "useFor": "food",
+      "id": 6
     },
     {
-      "type":"income",
+      "type": "income",
       "money": 4324,
       "date": "2023-12-25 13:36:42",
-      "useFor":"drinks",
-      "id":7
+      "useFor": "drinks",
+      "id": 7
     },
     {
-      "type":"income",
+      "type": "income",
       "money": 12312,
       "date": "2023-05-26 15:36:42",
-      "useFor":"food",
-      "id":8
+      "useFor": "food",
+      "id": 8
     },
     {
-      "type":"income",
+      "type": "income",
       "money": 12312,
       "date": "2023-10-27 16:36:42",
-      "useFor":"drinks",
-      "id":9
+      "useFor": "drinks",
+      "id": 9
     },
     {
-      "type":"income",
+      "type": "income",
       "money": 1234,
       "date": "2023-10-28 17:36:42",
-      "useFor":"food",
-      "id":10
+      "useFor": "food",
+      "id": 10
     },
     {
-      "type":"income",
+      "type": "income",
       "money": 21231,
       "date": "2023-12-28 17:36:42",
-      "useFor":"food",
-      "id":11
+      "useFor": "food",
+      "id": 11
     },
     {
-      "type":"pay",
+      "type": "pay",
       "money": -5231,
       "date": "2023-12-28 17:36:42",
-      "useFor":"food",
-      "id":12
+      "useFor": "food",
+      "id": 12
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2023-12-26T01:46:49.483Z",
+      "useFor": "longdistance",
+      "id": 13
+    },
+    {
+      "type": "pay",
+      "money": -120,
+      "date": "2023-12-20T15:00:00.000Z",
+      "useFor": "audio",
+      "id": 14
+    },
+    {
+      "type": "income",
+      "money": 110,
+      "date": "2023-12-23T15:00:00.000Z",
+      "useFor": "overtimepay",
+      "id": 15
     }
   ]
 }
